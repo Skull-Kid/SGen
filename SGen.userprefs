@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="SGen\SGen.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SGen\Program.cs">
+    <Files>
+      <File FileName="SGen\opt_fixed.cs" Line="1" Column="1" />
+      <File FileName="SGen\opt_between.cs" Line="1" Column="1" />
+      <File FileName="SGen\opt_return.cs" Line="1" Column="1" />
+      <File FileName="SGen\Program.cs" Line="627" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SGen>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="Predeterminado (Custom)" Id="c22b9369-9ce2-4c3c-b73a-dc51b029c63e" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="-l 2 2 -c 01 -prefix pre -suffix suf" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.SGen>
+</Properties>
